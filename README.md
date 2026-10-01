@@ -22,7 +22,6 @@
 ```lua
 local AlirezaAj = {
     role       = "FiveM Script Developer",
-    location   = "Tehran 🇮🇷",
     frameworks = { "ESX", "QBCore", "Qbox", "Standalone" },
     focus      = { "Admin Tools", "HUDs", "UI/UX", "Performance" },
     motto      = "Scripts that look premium and run at 0.00ms",
